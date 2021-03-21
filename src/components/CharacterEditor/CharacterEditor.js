@@ -76,6 +76,7 @@ function App() {
             handleSelectOption={setClothesColor}
           />
         </div>
+        <div className={styles.perspectiveBar }></div>
       </MaxWidthWrapper>
 
       <div className={styles.characterWrapper}>
